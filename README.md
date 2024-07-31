@@ -17,8 +17,8 @@ Follow these steps to set up and run the application:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/SwatiJain25/submission.git
-   cd submission
+   git clone https://github.com/SwatiJain25/dashboard.git
+   cd dashboard
    ```
 
 2. **Install dependencies:**
