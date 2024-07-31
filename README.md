@@ -62,10 +62,13 @@ The main files and directories in this project are:
 
 ## Screenshots
 
+DARK MODE
 ![WhatsApp Image 2024-07-31 at 16 52 29_c47b9d91](https://github.com/user-attachments/assets/5e5d647b-e782-485c-b0d5-ed6ac495b2ab)
 
+LIGHT MODE
 ![WhatsApp Image 2024-07-31 at 16 52 00_7d9f8843](https://github.com/user-attachments/assets/004ea013-0c4e-4639-80a6-251fd14943ac)
 
+ON CLICKING A FEATURE
 ![WhatsApp Image 2024-07-31 at 16 53 43_629643e6](https://github.com/user-attachments/assets/c89046f1-94f9-4bec-85d6-bd1140a17bae)
 
 
