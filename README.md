@@ -88,10 +88,3 @@ If you'd like to contribute to this project, please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ```
-
-### Notes:
-1. **Screenshots**: Add relevant screenshots of your application under the "Screenshots" section to provide a visual overview.
-2. **Repository URL**: Ensure the URL in the `git clone` command matches your actual repository URL.
-3. **Contributing and License**: Adjust the "Contributing" and "License" sections according to your preferences and legal requirements.
-
-This README file provides comprehensive instructions for setting up and running your Flutter application, ensuring a smooth experience for users and contributors.
